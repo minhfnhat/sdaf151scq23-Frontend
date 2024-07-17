@@ -1,0 +1,76 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Dive into the World of Naruto - Experience the Legendary Journey and Unleash Your Inner Shinobi.",
+        "title": "Unlock Your Ninja Spirit with Our Ultimate Anime Collection!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Dive into the World of Naruto - Experience the Legendary Journey and Unleash Your Inner Shinobi.",
+        "title": "Unlock Your Ninja Spirit with Our Ultimate Anime Collection!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "buttonText": "Join the Adventure",
+        "linkText": "Explore Episodes",
+        "subtitle": "Step into the world of ninjas and follow the journey of Naruto Uzumaki, overcoming obstacles, forming bonds, and achieving greatness.",
+        "title": "Discover Your Ninja Path with Naruto"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into the World of Naruto - Experience the Legendary Journey and Unleash Your Inner Shinobi.",
+        "title": "Unlock Your Ninja Spirit with Our Ultimate Anime Collection!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into the World of Naruto - Experience the Legendary Journey and Unleash Your Inner Shinobi.",
+        "title": "Unlock Your Ninja Spirit with Our Ultimate Anime Collection!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the World of Naruto - Experience the Legendary Journey and Unleash Your Inner Shinobi.",
+        "title": "Unlock Your Ninja Spirit with Our Ultimate Anime Collection!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into the World of Naruto - Experience the Legendary Journey and Unleash Your Inner Shinobi.",
+        "title": "Unlock Your Ninja Spirit with Our Ultimate Anime Collection!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into the World of Naruto - Experience the Legendary Journey and Unleash Your Inner Shinobi.",
+        "title": "Unlock Your Ninja Spirit with Our Ultimate Anime Collection!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the World of Naruto - Experience the Legendary Journey and Unleash Your Inner Shinobi.",
+        "title": "Unlock Your Ninja Spirit with Our Ultimate Anime Collection!"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unlock Your Ninja Spirit with Our Ultimate Anime Collection!",
+  "subtitle": "Dive into the World of Naruto - Experience the Legendary Journey and Unleash Your Inner Shinobi."
+}
